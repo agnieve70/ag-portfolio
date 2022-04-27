@@ -1,0 +1,15 @@
+#top_100  {
+  top: 95% !important;
+}
+
+.float_end{
+      float: right !important;
+}
+
+@media screen and (max-width: 700px) {
+  .float_end
+  {
+      float: none !important;
+  }
+}
+
