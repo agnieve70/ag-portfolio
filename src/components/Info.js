@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import InfoContent from '../UI/InfoContent';
 import Skill from './Skill';
 
